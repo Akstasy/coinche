@@ -3,3 +3,5 @@ C:\cygwin64\home\Akram\coinche\cardGames\Common\bin\Debug\Common.pdb
 C:\cygwin64\home\Akram\coinche\cardGames\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 C:\cygwin64\home\Akram\coinche\cardGames\Common\obj\Debug\Common.dll
 C:\cygwin64\home\Akram\coinche\cardGames\Common\obj\Debug\Common.pdb
+C:\cygwin64\home\Akram\coinche\cardGames\Common\bin\Debug\NetworkCommsDotNetComplete.pdb
+C:\cygwin64\home\Akram\coinche\cardGames\Common\bin\Debug\NetworkCommsDotNetComplete.xml

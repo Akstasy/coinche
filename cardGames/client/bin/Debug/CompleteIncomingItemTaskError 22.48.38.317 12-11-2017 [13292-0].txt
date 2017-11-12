@@ -1,0 +1,17 @@
+Base Exception Type: System.ArgumentException: Provided type Common.Player either does not have a parameterless constructor or does not implement IExplicitlySerialize
+Nom du paramètre : resultType
+   à NetworkCommsDotNet.DPSBase.ExplicitSerializer.DeserialiseDataObjectInt(Stream inputStream, Type resultType, Dictionary`2 options)
+   à NetworkCommsDotNet.DPSBase.DataSerializer.DeserialiseGeneralObject[T](MemoryStream receivedObjectStream, List`1 dataProcessors, Dictionary`2 options)
+   à NetworkCommsDotNet.DPSBase.DataSerializer.DeserialiseDataObject[T](MemoryStream receivedObjectStream, List`1 dataProcessors, Dictionary`2 options)
+   à NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.DeSerialize(MemoryStream incomingBytes, SendReceiveOptions options)
+   à NetworkCommsDotNet.NetworkComms.TriggerAllPacketHandlers(PacketHeader packetHeader, Connection connection, MemoryStream dataStream, SendReceiveOptions options, Boolean ignoreUnknownPacketTypeOverride)
+   à NetworkCommsDotNet.NetworkComms.TriggerAllPacketHandlers(PacketHeader packetHeader, Connection connection, MemoryStream dataStream, SendReceiveOptions options)
+   à NetworkCommsDotNet.NetworkComms.CompleteIncomingItemTask(Object priorityQueueItemObj)
+
+Stack Trace:    à NetworkCommsDotNet.DPSBase.ExplicitSerializer.DeserialiseDataObjectInt(Stream inputStream, Type resultType, Dictionary`2 options)
+   à NetworkCommsDotNet.DPSBase.DataSerializer.DeserialiseGeneralObject[T](MemoryStream receivedObjectStream, List`1 dataProcessors, Dictionary`2 options)
+   à NetworkCommsDotNet.DPSBase.DataSerializer.DeserialiseDataObject[T](MemoryStream receivedObjectStream, List`1 dataProcessors, Dictionary`2 options)
+   à NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.DeSerialize(MemoryStream incomingBytes, SendReceiveOptions options)
+   à NetworkCommsDotNet.NetworkComms.TriggerAllPacketHandlers(PacketHeader packetHeader, Connection connection, MemoryStream dataStream, SendReceiveOptions options, Boolean ignoreUnknownPacketTypeOverride)
+   à NetworkCommsDotNet.NetworkComms.TriggerAllPacketHandlers(PacketHeader packetHeader, Connection connection, MemoryStream dataStream, SendReceiveOptions options)
+   à NetworkCommsDotNet.NetworkComms.CompleteIncomingItemTask(Object priorityQueueItemObj)
