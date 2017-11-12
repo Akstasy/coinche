@@ -8,3 +8,4 @@ C:\cygwin64\home\Akram\coinche\cardGames\client\bin\Debug\Common.dll
 C:\cygwin64\home\Akram\coinche\cardGames\client\bin\Debug\Common.pdb
 C:\cygwin64\home\Akram\coinche\cardGames\client\bin\Debug\NetworkCommsDotNetComplete.pdb
 C:\cygwin64\home\Akram\coinche\cardGames\client\bin\Debug\NetworkCommsDotNetComplete.xml
+C:\cygwin64\home\Akram\coinche\cardGames\client\bin\Debug\NetworkCommsDotNetComplete.dll
