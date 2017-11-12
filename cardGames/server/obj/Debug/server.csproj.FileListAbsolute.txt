@@ -1,0 +1,1 @@
+C:\cygwin64\home\Akram\coinche\cardGames\server\bin\Debug\server.exe.config
