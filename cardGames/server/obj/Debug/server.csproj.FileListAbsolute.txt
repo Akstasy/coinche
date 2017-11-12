@@ -1,1 +1,11 @@
 C:\cygwin64\home\Akram\coinche\cardGames\server\bin\Debug\server.exe.config
+C:\cygwin64\home\Akram\coinche\cardGames\server\bin\Debug\server.exe
+C:\cygwin64\home\Akram\coinche\cardGames\server\bin\Debug\server.pdb
+C:\cygwin64\home\Akram\coinche\cardGames\server\bin\Debug\Common.dll
+C:\cygwin64\home\Akram\coinche\cardGames\server\bin\Debug\NetworkCommsDotNet.dll
+C:\cygwin64\home\Akram\coinche\cardGames\server\bin\Debug\protobuf-net.dll
+C:\cygwin64\home\Akram\coinche\cardGames\server\bin\Debug\Common.pdb
+C:\cygwin64\home\Akram\coinche\cardGames\server\bin\Debug\protobuf-net.xml
+C:\cygwin64\home\Akram\coinche\cardGames\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\Akram\coinche\cardGames\server\obj\Debug\server.exe
+C:\cygwin64\home\Akram\coinche\cardGames\server\obj\Debug\server.pdb
